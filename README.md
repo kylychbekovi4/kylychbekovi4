@@ -28,11 +28,9 @@ src="https://img.shields.io/github/followers/kylychbekovi4?logo=github&style=for
 
 ### Skills
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamy1ova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,sass,vscode,github,nextjs,figma,ps,firebase,babel,styledcomponents,bootstrap,mui,figma,tailwind,git,vite,npm," width="1200" ;
+</div>
 
 
 ### Socials
