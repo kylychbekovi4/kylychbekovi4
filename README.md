@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
  
-  <img height="100" src="https://readme-typing-svg.herokuapp.com?color=red&lines=Frontend+Developer"/>
+  <img height="100" src="https://readme-typing-svg.herokuapp.com?color=red&lines=Frontend+JS+TS+Developer"/>
 
 </a>
 
