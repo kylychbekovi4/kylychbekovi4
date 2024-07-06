@@ -14,6 +14,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kydyrmyshov107&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <div align="center"> 
   <a href="https://github.com/TEMURBEKTUMANBAEV"> 
   <img src="https://github.com/bimashazaman/Github-snake-SVG/raw/master/snake.svg" 
